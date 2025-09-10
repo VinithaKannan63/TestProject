@@ -1,0 +1,14 @@
+Sure! Below is the template for the Automation code based on your request:
+
+```gherkin
+{automation_tc}
+```
+
+Modify the Automation codes according to the user's comments (if there are any):
+{input}
+
+---
+
+If the Automation code looks correct, type **'approved'** to proceed with publishing. If not, provide comments or suggestions for required changes.
+- **Type 'approved'** to confirm and finalize the publication to GIT.
+- Provide comments or suggestions for modifications if needed.
